@@ -1,7 +1,7 @@
 # Contributing
 
 Thanks for taking the time. These notes apply to every repository under
-[naked-head](https://github.com/naked-head); anything repository-specific is in
+[giorgioparri](https://github.com/giorgioparri); anything repository-specific is in
 that repository's own README.
 
 ## Before you write code
