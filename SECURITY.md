@@ -1,7 +1,7 @@
 # Security Policy
 
 This policy covers every repository under
-[naked-head](https://github.com/naked-head): the Home Assistant custom
+[giorgioparri](https://github.com/giorgioparri): the Home Assistant custom
 integrations, the Lovelace cards, and the Home Assistant Apps.
 
 ## What is in scope
